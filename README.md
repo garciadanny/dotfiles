@@ -2,11 +2,8 @@
 
 ## Installation
 
-1) Clone the repository
-
-2) 
-
 ```
+git clone git@github.com:garciadanny/dotfiles.git
 cd /dotfiles
 sh install.sh
 ```
