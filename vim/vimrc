@@ -1,0 +1,9 @@
+set shell=/bin/sh
+
+let VIM_DIR=expand('$HOME/Dropbox/code/dotfiles/vim')
+
+execute 'source' VIM_DIR . '/plugins.vim'
+execute 'source' VIM_DIR . '/plugin_settings.vim'
+execute 'source' VIM_DIR . '/general.vim'
+execute 'source' VIM_DIR . '/mappings.vim'
+
