@@ -8,6 +8,9 @@ set tags=./tags;
 " Highlight the current line
 set cursorline
 
+" Show 80 character column marker
+set colorcolumn=80
+
 " Copy to clipboard when yanking, deleting, etc
 set clipboard+=unnamed
 
